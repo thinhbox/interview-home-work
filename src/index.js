@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+//!Bootstrap style are deliveried via CDN in index.html
 
 ReactDOM.render(
   <React.StrictMode>
